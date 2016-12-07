@@ -1,4 +1,5 @@
 <?php
+var_dump($post,$GET);exit;
 $to      = 'omar.solimann@gmail.com.com';
 $subject = 'Github Contact';
 $message = 'Test';
