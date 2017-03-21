@@ -1,6 +1,6 @@
 <?php
 var_dump($post,$GET);exit;
-$to      = 'omar.solimann@gmail.com.com';
+$to      = 'omar.solimann@gmail.com';
 $subject = 'Github Contact';
 $message = 'Test';
 $headers = 'From: webmaster@example.com' . "\r\n" .
