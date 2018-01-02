@@ -784,11 +784,20 @@ li, ul {
 .footer-section .social-links a.twitter {
 	background: #1AB1E5;
 }
-.footer-section .social-links a.behance {
-	background: #2A71F3;
+.footer-section .social-links a.soundcloud {
+	background: #f60;
 }
-.footer-section .social-links a.dribbble {
-	background: #DF7EA5;
+.footer-section .social-links a.instagram {
+	background: #516075;
+}
+.footer-section .social-links a.linkedin {
+	background: #0077b5;
+}
+.footer-section .social-links a.pinterest {
+	background: #bd081c;
+}
+.footer-section .social-links a.google {
+	background: #d94a38;
 }
 .footer-section p {
 	font-size: 14px;
