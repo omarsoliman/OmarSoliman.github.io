@@ -650,13 +650,13 @@ li, ul {
 	width: 100%;
 	border-radius: 100px;
 	margin-bottom: 20px;
-	font-size: 70px;
+	font-size: 90px;
 	position: absolute;
 	left: 0;
 	top: -15px;
 	z-index: -1;
 	opacity: 0.1;
-	color: #9c9c9c;
+	color: #3e3c3c;
 }
 .contact-info p {
 	font-size: 14px;
