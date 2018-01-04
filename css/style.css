@@ -825,6 +825,11 @@ li, ul {
 
 /* Large Mobile :480px. */
 @media only screen and (max-width: 767px) {
+    
+    .contact-info i {
+        font-size: 55px!important;
+        top: -22px!important;
+    }
 	.service-item {
 		margin-bottom: 30px;
 	}
